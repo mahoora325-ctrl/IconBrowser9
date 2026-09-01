@@ -1,0 +1,17 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <path android:fillColor="@color/icon_calendar" android:pathData="M22,0 H86 A22,22 0 0 1 108,22 V86 A22,22 0 0 1 86,108 H22 A22,22 0 0 1 0,86 V22 A22,22 0 0 1 22,0 Z" />
+    <path android:fillColor="@color/icon_highlight" android:fillAlpha="0.14" android:pathData="M14,10 A40,26 0 0 1 94,10 A50,20 0 0 1 14,10 Z" />
+    <path android:fillColor="#FFFFFF"
+        android:pathData="M26,30 H82 A4,4 0 0 1 86,34 V82 A4,4 0 0 1 82,86 H26 A4,4 0 0 1 22,82 V34 A4,4 0 0 1 26,30 Z" />
+    <path android:fillColor="@color/icon_calendar_dark"
+        android:pathData="M26,30 H82 A4,4 0 0 1 86,34 V44 H22 V34 A4,4 0 0 1 26,30 Z" />
+    <path android:fillColor="@color/icon_highlight" android:pathData="M35,20 H41 V34 H35 Z" />
+    <path android:fillColor="@color/icon_highlight" android:pathData="M67,20 H73 V34 H67 Z" />
+    <path android:fillColor="@color/icon_calendar" android:fillAlpha="0.55" android:pathData="M32,54 H41 V63 H32 Z" />
+    <path android:fillColor="@color/icon_calendar" android:fillAlpha="0.55" android:pathData="M49,54 H58 V63 H49 Z" />
+    <path android:fillColor="@color/icon_calendar" android:pathData="M66,54 H77 V65 H66 Z" />
+    <path android:fillColor="@color/icon_calendar" android:fillAlpha="0.55" android:pathData="M32,69 H41 V78 H32 Z" />
+    <path android:fillColor="@color/icon_calendar" android:fillAlpha="0.55" android:pathData="M49,69 H58 V78 H49 Z" />
+</vector>

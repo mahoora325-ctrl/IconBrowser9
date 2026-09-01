@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">مرورگر</string>
+    <string name="settings_title">ظاهر برنامه</string>
+    <string name="settings_subtitle">یک آیکون و نام دیگر برای صفحه اصلی انتخاب کن.</string>
+    <string name="privacy_section_title">حریم خصوصی</string>
+    <string name="auto_clear_title">پاک کردن خودکار تاریخچه</string>
+    <string name="auto_clear_subtitle">وقتی روشن باشد، با هر بار باز یا بسته شدن برنامه، تاریخچه‌ی سایت‌ها بدون هیچ پیامی پاک می‌شود.</string>
+    <string name="url_hint">آدرس یا عبارت جستجو</string>
+    <string name="go">برو</string>
+    <string name="settings_action">تنظیمات ظاهر</string>
+    <string name="icon_changed_toast">آیکون به «%1$s» تغییر کرد</string>
+    <string name="label_browser">مرورگر</string>
+    <string name="label_weather">هواشناسی</string>
+    <string name="label_radio">رادیو</string>
+    <string name="label_phone">تلفن</string>
+    <string name="label_calculator">ماشین‌حساب</string>
+    <string name="label_notes">یادداشت</string>
+    <string name="label_clock">ساعت</string>
+    <string name="label_calendar">تقویم</string>
+</resources>

@@ -1,0 +1,22 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <path android:fillColor="@color/icon_clock" android:pathData="M22,0 H86 A22,22 0 0 1 108,22 V86 A22,22 0 0 1 86,108 H22 A22,22 0 0 1 0,86 V22 A22,22 0 0 1 22,0 Z" />
+    <path android:fillColor="@color/icon_highlight" android:fillAlpha="0.14" android:pathData="M14,10 A40,26 0 0 1 94,10 A50,20 0 0 1 14,10 Z" />
+    <path android:fillColor="#FFFFFF" android:fillAlpha="0.95"
+        android:pathData="M54,20 A34,34 0 1,1 53.9,20 Z" />
+    <path android:fillColor="@color/icon_clock" android:pathData="M52,26 H56 V33 H52 Z" />
+    <path android:fillColor="@color/icon_clock" android:pathData="M52,75 H56 V82 H52 Z" />
+    <path android:fillColor="@color/icon_clock" android:pathData="M26,52 H33 V56 H26 Z" />
+    <path android:fillColor="@color/icon_clock" android:pathData="M75,52 H82 V56 H75 Z" />
+    <path android:strokeColor="@color/icon_clock" android:strokeWidth="5" android:fillColor="#00000000"
+        android:strokeLineCap="round"
+        android:pathData="M54,54 V32" />
+    <path android:strokeColor="@color/icon_clock" android:strokeWidth="5" android:fillColor="#00000000"
+        android:strokeLineCap="round"
+        android:pathData="M54,54 L70,60" />
+    <path android:strokeColor="@color/icon_clock_hand" android:strokeWidth="2.5" android:fillColor="#00000000"
+        android:strokeLineCap="round"
+        android:pathData="M54,54 L66,36" />
+    <path android:fillColor="@color/icon_clock" android:pathData="M54,54 A4,4 0 1,1 53.9,54 Z" />
+</vector>

@@ -1,0 +1,17 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <path android:fillColor="@color/icon_calculator" android:pathData="M22,0 H86 A22,22 0 0 1 108,22 V86 A22,22 0 0 1 86,108 H22 A22,22 0 0 1 0,86 V22 A22,22 0 0 1 22,0 Z" />
+    <path android:fillColor="@color/icon_highlight" android:fillAlpha="0.08" android:pathData="M14,10 A40,26 0 0 1 94,10 A50,20 0 0 1 14,10 Z" />
+    <path android:fillColor="#FFFFFF" android:fillAlpha="0.95"
+        android:pathData="M30,20 H78 A6,6 0 0 1 84,26 V82 A6,6 0 0 1 78,88 H30 A6,6 0 0 1 24,82 V26 A6,6 0 0 1 30,20 Z" />
+    <path android:fillColor="@color/icon_calculator_screen"
+        android:pathData="M32,26 H76 A2,2 0 0 1 78,28 V40 A2,2 0 0 1 76,42 H32 A2,2 0 0 1 30,40 V28 A2,2 0 0 1 32,26 Z" />
+    <path android:fillColor="@color/icon_calculator" android:pathData="M32,50 H43 V60 H32 Z" />
+    <path android:fillColor="@color/icon_calculator" android:pathData="M47,50 H58 V60 H47 Z" />
+    <path android:fillColor="@color/icon_calculator" android:pathData="M62,50 H73 V60 H62 Z" />
+    <path android:fillColor="@color/icon_calculator" android:pathData="M32,64 H43 V74 H32 Z" />
+    <path android:fillColor="@color/icon_calculator" android:pathData="M47,64 H58 V74 H47 Z" />
+    <path android:fillColor="@color/icon_calculator" android:pathData="M62,64 H73 V74 H62 Z" />
+    <path android:fillColor="@color/icon_calculator_screen" android:pathData="M62,50 H73 V74 H62 Z" />
+</vector>
